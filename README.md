@@ -28,4 +28,4 @@ and answered 5 questions about who survived.
 ## Charts
 ![By sex](outputs/charts/survival_by_sex.png)
 ![By class](outputs/charts/survival_by_class.png)
-![By age group](outputs/charts/survival_by_age_group.png)
+![By age group](outputs/charts/survival_by_Agegroup.png)
